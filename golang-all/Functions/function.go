@@ -9,6 +9,8 @@ type Person struct {
 	age  int
 }
 
+//added comment 
+
 //receiver method it is not function, the idea here is the value of type(person) person has access to this method.
 func (p *Person) update(n string, a int) {
 	p.name = n
