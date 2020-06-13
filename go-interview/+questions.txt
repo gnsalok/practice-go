@@ -1,5 +1,23 @@
 -- List of Question -- 
 
+
+-- Golang Language specific / feature Inteview Questions --
+[Started with prefix g] 
+
+1.
+2.
+3.
+
+
+
+
+
+
+
+
+-- Problem Solving Using Go  -----
+[Started with prefix q] 
+
 1. Define array, initialize, use and print.
 2. WAF to return sum of float arr value.
 3. WFA which return factorial of given number.
