@@ -1,5 +1,6 @@
-//
+-- List of Question -- 
 
-1. Define array, initialize, use and print 
-2. WAF to return sum of float arr value
-3.
+1. Define array, initialize, use and print.
+2. WAF to return sum of float arr value.
+3. WFA which return factorial of given number.
+4. Take input from user and print table for that in runtime.

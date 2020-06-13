@@ -1,5 +1,0 @@
-//
-
-1. Define array, initialize, use and print 
-2. WAF to return sum of float arr value
-3.

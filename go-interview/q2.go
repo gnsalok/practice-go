@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// function to return sum of float array value.
+// Function to return sum of float array value.
 func sumArr(arr *[5]float64) float64 {
 	var sum float64
 	for i := 0; i < len(arr); i++ {
@@ -15,7 +15,7 @@ func sumArr(arr *[5]float64) float64 {
 
 func main() {
 
-	arr := [5]float64{1, 2, 3, 4, 5}
+	arr := [5]float64{1.33, 2, 3.56, 4.5, 5}
 	result := sumArr(&arr)
 	fmt.Println(result)
 }
