@@ -4,9 +4,15 @@
 -- Golang Language specific / feature Inteview Questions --
 [Started with prefix g] 
 
-1.
-2.
-3.
+1. ok, comma idiom in Golang
+2. Implement Set in Go
+3. Slice : CRUD
+4. Files : CRUD
+5. Struct 
+6. Testiing 
+7. Interface
+8. Function VS Method
+9. Write a Calculator Using logical type.
 
 
 
@@ -20,5 +26,5 @@
 
 1. Define array, initialize, use and print.
 2. WAF to return sum of float arr value.
-3. WFA which return factorial of given number.
+3. WAF which return factorial of given number.
 4. Take input from user and print table for that in runtime.
