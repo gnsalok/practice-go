@@ -4,7 +4,8 @@ import "fmt"
 
 func main() {
 
-	m := make(map[string]int)
+				
+	m := make(map[string]int)		//map[key]value
 
 	m["answer"] = 100
 

@@ -22,9 +22,9 @@
 
 
 -- Problem Solving Using Go  -----
-[Started with prefix q] 
+[Started with prefix p] 
 
-1. Define array, initialize, use and print.
-2. WAF to return sum of float arr value.
-3. WAF which return factorial of given number.
-4. Take input from user and print table for that in runtime.
+p1. Define array, initialize, use and print.
+p2. WAF to return sum of float arr value.
+p3. WAF which return factorial of given number.
+p4. Take input from user and print table for that in runtime.
