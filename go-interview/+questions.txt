@@ -14,7 +14,8 @@
 8. Function VS Method
 9. Write a Calculator Using logical type.
 10. Switch Case in Go
-11.Slice Length & Capacity 
+11. Show Composition using Struct 
+
 
 
 
