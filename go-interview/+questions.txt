@@ -18,7 +18,9 @@
 12. (package dir)Write a package in Go. (pkg name "timer") 
 13. String formating in Go
 14. Maps in Go
+<Interface>
 15. Implement reader-writer interface in GO
+16. Implement Error interface 
 
 
 
