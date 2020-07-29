@@ -15,6 +15,10 @@
 9. Write a Calculator Using logical type.
 10. Switch Case in Go
 11. Show Composition using Struct 
+12. (package dir)Write a package in Go. (pkg name "timer") 
+13. String formating in Go
+14. Maps in Go
+15. Implement reader-writer interface in GO
 
 
 
