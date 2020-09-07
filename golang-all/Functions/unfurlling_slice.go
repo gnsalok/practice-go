@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	xi := []int{1, 2, 3, 4, 5, 6, 7, 8, 9}
+	xi := []int{1, 2, 3, 4, 6, 5, 7, 8, 9}
 
 	//unfurling the slice
 	sum := sum(xi...)
@@ -17,6 +17,7 @@ func sum(xi ...int) int {
 	total := 0
 
 	for _, v := range xi {
+		fmt.Println(v)
 		total += v
 	}
 	return total
