@@ -1,3 +1,9 @@
+/*
+
+Slice is reference type.
+
+*/
+
 package main
 
 import (
