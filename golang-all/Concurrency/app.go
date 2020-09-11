@@ -17,6 +17,7 @@ func main() {
 	c := make(chan string)
 
 	for _, link := range links {
+		//passing links to the function along with channel
 		go checkLink(link, c)
 	}
 
@@ -30,9 +31,21 @@ func main() {
 	// }
 
 	//better syntax
+	/*
+		for l := range c {
+			time.Sleep(time.Second)
+			//here we are taking data from the channel
+			go checkLink(l, c)
+		}
+	*/
+
+	//Anonymouse Function (Function literal)
+
 	for l := range c {
-		time.Sleep(time.Second)
-		go checkLink(l, c)
+		go func(link string) {
+			time.Sleep(5 * time.Second)
+			checkLink(link, c)
+		}(l)
 	}
 
 	fmt.Println(<-c)
