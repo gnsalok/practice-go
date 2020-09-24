@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/gnsalok/gocodebase/Practice-Go/Testing"
+	"github.com/gnsalok/master-golang/golang-all/Testing"
 	"testing"
 )
 

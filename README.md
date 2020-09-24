@@ -5,19 +5,18 @@
 ##### Golang Basics to Advance
 
 - Covered all the basics to advance topics of Go.
-  Link : https://github.com/gnsalok/master-golang/tree/master/golang-all
-
+  Link : 
 ##### Golang Interview Preparation
 
 - Questions related to language specification
 - Problem-solving using Go
-  Link : https://github.com/gnsalok/master-golang/tree/master/go-interview
+  Link : 
 
-##### Algorithms and Data Struture using Go
+##### Solving Coding interview Daily LeetCode Problem using Go.
 
 - Algorithms Implemention using Go
 - Data Structure
-  Link : https://github.com/gnsalok/master-golang/tree/master/Algo-DS-Go
+  Link : 
 
 ### Installation
 
