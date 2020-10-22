@@ -39,7 +39,7 @@ func main() {
 		}
 	*/
 
-	//Anonymouse Function (Function literal)
+	//Anonymouse Function call (Function literal)
 
 	for l := range c {
 		go func(link string) {
