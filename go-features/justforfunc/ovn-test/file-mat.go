@@ -89,7 +89,7 @@ func main() {
 	}
 
 	//Write output into the file
-	writeLines(a, "src/github.com/gnsalok/master-golang/go-features/justforfunc/ovn-test/output.txt")
+	writeLines(result, "src/github.com/gnsalok/master-golang/go-features/justforfunc/ovn-test/output.txt")
 
 	// Printing elapsed time
 	elapsed := time.Since(start)
